@@ -1,0 +1,1 @@
+{"version":3,"sources":["comment.scss"],"names":[],"mappings":"AAAA,SACE,qBAAuB,CACvB,YAAa,CACb,kBAAmB","file":"main.83787a7c.chunk.css","sourcesContent":[".comment {\n  border: 1px solid black;\n  padding: 10px;\n  margin-bottom: 10px;\n}\n"]}
